@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Karla", sans-serif;
+}
+
+.container{
+  background: #1F2937;
+  width: 600px;
+  height: 550px;
+  margin: 100px auto;
+  text-align: left;
+  padding: 50px;
+  color: #fff;
+}
+
+h1{
+  margin: 20px 0;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+h1 span{
+  color: #4ADF86;
+}
+
+h3{
+  margin: 30px 0;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+button{
+  background: #4ADF86;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  padding: 10px 20px;
+  margin: 30px 0;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover{
+  background: #1b7e43;
+}
+
+.passwords{
+  border-top: 1px solid #ffffff75;
+}
+
+.passwords button{
+  color: #4ADF86;
+  background: #273549;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  padding: 10px 20px;
+  margin: 30px 0;
+  font-size: 1rem;
+  margin-right: 10px;
+}
